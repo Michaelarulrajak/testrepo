@@ -1,2 +1,2 @@
 The first line by user 1
-The second line modified by sangeetha
+The second line modified by sangeetha - Am modifying the same line [Michael]
